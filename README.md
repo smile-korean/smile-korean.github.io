@@ -1,4 +1,4 @@
 Learning Korean with a Smile
 ============================
 
-This is the web repository for http://smile-korean.com/.
+This is the webpage repository for http://smile-korean.com/.
